@@ -54,6 +54,6 @@ Ahora, sigue estos pasos para sincronizar:
     git push -u origin main
     ```
 
-    *Si te pide credenciales, ingresa tu nombre de usuario de GitHub y tu Personal Access Token (PAT) si tienes 2FA habilitado, o tu contraseña si no.*
+
 
 ¡Listo\! Tu repositorio local ahora está sincronizado con el remoto en GitHub. Cada vez que hagas cambios y los confirmes (`git commit`), podrás subirlos a GitHub con un simple `git push`.

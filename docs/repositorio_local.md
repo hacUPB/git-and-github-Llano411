@@ -7,7 +7,7 @@ Para crear un repositorio Git local, sigue estos sencillos pasos. Puedes copiar 
 Primero, abre tu terminal (o línea de comandos) y usa el comando `cd` para ir a la carpeta donde quieres crear tu repositorio. Por ejemplo, si tu proyecto se llama "MiProyecto" y está en tu escritorio:
 
 ```bash
-cd ~/Desktop/MiProyecto
+cd Desktop/MiProyecto
 ```
 
 **Consejo:** Si la carpeta aún no existe, puedes crearla con `mkdir MiProyecto` y luego entrar en ella.
