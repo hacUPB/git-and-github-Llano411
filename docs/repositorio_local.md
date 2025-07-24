@@ -29,3 +29,6 @@ Puedes usar `git status` para confirmar que el repositorio se ha inicializado co
 ```bash
 git status
 ```
+![Prueba 1](../images/Prueba%201.png)
+![Prueba 2](../images/Prueba%202.png)
+![Prueba 3](../images/Prueba%203.png)
