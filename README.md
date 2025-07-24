@@ -1,8 +1,57 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Alejandro Llano  
+Id.:  000540191
+
+
+Este repositorio contiene la estructura de un proyecto de programación básico, diseñado para demostrar la organización de archivos y la documentación de los procesos clave en el uso de **Git** y **GitHub**. El enfoque principal de este proyecto es la creación y gestión de un repositorio, abarcando desde la navegación básica en la consola hasta la sincronización de un repositorio local con uno remoto en GitHub.
+
+Aquí encontrarás:
+
+  * Un ejemplo de **código fuente** en Python dentro de la carpeta `src`.
+  * **Documentación detallada** en la carpeta `docs` sobre comandos de consola, creación de repositorios locales y remotos, y su sincronización.
+  * Archivos `.gitignore` para el **control de versiones** efectivo.
+  * Imágenes de apoyo para visualizar los pasos realizados.
+
+Este proyecto sirve como una guía práctica para entender cómo estructurar un proyecto, documentar su desarrollo y utilizar Git para el control de versiones.
+
+-----
+
+### Cómo clonar y ejecutar el proyecto
+
+Para obtener una copia local de este proyecto y ejecutar el script de ejemplo, sigue estos pasos:
+
+1.  **Clonar el repositorio:** Abre tu terminal o línea de comandos y ejecuta el siguiente comando:
+
+    ```bash
+    git clone https://github.com/tu-usuario/git-and-github-Llano411.git
+    ```
+
+    (Asegúrate de reemplazar `tu-usuario` con tu nombre de usuario de GitHub real y el enlace al repositorio clonado de la evaluación).
+
+2.  **Navegar al directorio del proyecto:** Una vez clonado, dirígete a la carpeta raíz del proyecto:
+
+    ```bash
+    cd git-and-github-Llano411
+    ```
+
+3.  **Ejecutar el script de Python (Opcional):** Si deseas probar el script de ejemplo, asegúrate de tener Python instalado y luego ejecuta:
+
+    ```bash
+    python src/script.py
+    ```
+
+    Este script te pedirá que ingreses números para calcular su promedio.
+
+-----
+
+### Documentación del Proyecto
+
+Explora los siguientes enlaces para aprender más sobre los temas cubiertos en este proyecto:
+- [Uso de la consola](./docs/uso_consola.md)
+- [Repositorio local](./docs/repositorio_local.md)
+- [Repositorio remoto](./docs/repositorio_remoto.md)
 ---
 # Evaluación
 
